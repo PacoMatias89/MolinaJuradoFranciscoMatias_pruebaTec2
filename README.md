@@ -6,7 +6,7 @@ crea el turno, agregando la fecha, hora y el tipo de trámite que quiere realiza
 
 ## Manejabilidad del proyecto(Gestión de Turnos)
 
-![Portada_Gestion_Turnos](media\portada.png)
+![Portada_Gestion_Turnos](media/portada.png)
 
 
 En esta imagen podremos observar el formulario para tanto para crear al usuario como para crear el turno que requiere el ciudadano.
@@ -17,7 +17,7 @@ Los campos que aparecen en el formulario son obligatorios para la creación del 
 
 Los botones que aparecen en el formulario son:
 
-![botones](media\botonera.png)
+![botones](media/botonera.png)
 
 ### Botón Registrar turno
 
@@ -27,11 +27,11 @@ El botón de registrar turno la misma palabra lo dice, va a registrar tanto el u
 
 En este botón vamos a buscar por una fecha determinada todos los turnos que hay en ese día:
 
-![buscar_por_fecha](media\buscar_por_fecha.png)
+![buscar_por_fecha](media/buscar_por_fecha.png)
 
 La primera vez que queremos buscar el turno por fecha se nos abrirá esta ventana lista para buscar la fecha deseada:
 
-![buscar](media\buscar_por_fecha2.png)
+![buscar](media/buscar_por_fecha2.png)
 
 Y como podremos ver os trae todos los datos que hay en la base de datos. 
 Como podremos ver también tenemos un botón que es para cambiar el estado, este botón nos cambiará de estado del turno a
@@ -44,12 +44,12 @@ _"Ya atendido"_ :
 En este botón como bien dice su escrito va a buscar el turno por fecha y estado, es muy similar 
 al buscar por fecha pero agregando el select para elegir _"En espera"_ o _"Ya atendido"_
 
-![buscar_fecha_estado](media\buscar_fecha_estado.png)
+![buscar_fecha_estado](media/buscar_fecha_estado.png)
 
 Y le agregaremos la fecha que queremos buscar que es el primer requisito para poder buscar por estado, si no agregamos
 primero :
 
-![mostrar_turno_fecha_estado](media\mostrar_turno_fecha_estado.png)
+![mostrar_turno_fecha_estado](media/mostrar_turno_fecha_estado.png)
 
 Y como hemos podido ver en cada ejemplo hay un botón que dice: **Volver Atrás**, pues este botón es el encargado 
 de ir hacia la página de atrás.
