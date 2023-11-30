@@ -57,7 +57,7 @@ de ir hacia la página de atrás.
 
 ## Errores
 
-Los errores que puedes salir cunado queramos registrar un turno es dejar los campos a rellenar vacíos, en este caso
+Los errores que puedes salir cuando queramos registrar un turno es dejar los campos a rellenar vacíos, en este caso
 nos saldrá una advertencia de que son obligatorios todos los campos.
 
 También otro de los errores que pueden ocurrir es que escribamos cualquier campo mal, en este caso si por ejemplo escribimos mal un DNI nos saltará
