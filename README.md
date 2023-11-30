@@ -1,3 +1,4 @@
+-La base de datos se encuentra en la carpeta resource_
 # Desarrollo de una Aplicación de Gestión de Turnos
 
 
